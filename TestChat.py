@@ -14,7 +14,7 @@ import io
 # Configuration
 VERSION = "1.4"
 CONFIG_FILE = "chat_config.json"
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/yourscript.py"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/fL0390/chatlocal/refs/heads/main/TestChat.py"
 
 
 class DarkChatWithUpdates:
