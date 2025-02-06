@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 import io
 
 # Configuration
-VERSION = "1.4"
+VERSION = "1.4.1"
 CONFIG_FILE = "chat_config.json"
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/fL0390/chatlocal/refs/heads/main/TestChat.py"
 
