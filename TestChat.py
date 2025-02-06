@@ -20,7 +20,7 @@ GITHUB_RAW_URL = "https://raw.githubusercontent.com/fL0390/chatlocal/refs/heads/
 class DarkChatWithUpdates:
     def __init__(self, master):
         self.master = master
-        master.title(f"Nigga Chat v{VERSION}")
+        master.title(f"v{VERSION}")
         self.set_dark_theme()
 
         # Load or create config
